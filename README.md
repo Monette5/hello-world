@@ -1,3 +1,3 @@
 # hello-world
 New One
-Praciticing being a Git.
+Practicing being a Git.
